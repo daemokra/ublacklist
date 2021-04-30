@@ -34,3 +34,4 @@
 /.*udemy.*/
 
 *://kinsta.com/*
+*://*/sharehub.pro/*
